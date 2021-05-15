@@ -97,3 +97,4 @@ class weightedQuickUnion:
         
     def count(self):
         return self._count
+        
